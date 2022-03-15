@@ -16,5 +16,6 @@
 - i just select one from the above which is look like butterfly.
 
 - i try to design using shapes but it's not look like butterfly.
+  ![design process](/assets/images/design_process.png)
 
 - so i try to use pen tool, and i did it.
