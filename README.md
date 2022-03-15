@@ -4,7 +4,7 @@
 
 - DSGN270-Assignment-3- SVG LOGO DESIGN
 
-## Design concept
+## Design Process
 
 - I was searching through the internet for simple logo design.
 
@@ -19,3 +19,10 @@
   ![design process](/assets/images/design_process.png)
 
 - so i try to use pen tool, and i did it.
+  ![Final logo](/assets/images/final_logo.png)
+
+- export into SVG format.
+
+- optimized using SVGOMG and import into the html file.
+
+- added the colors using css.
