@@ -4,6 +4,10 @@
 
 - DSGN270-Assignment-3- SVG LOGO DESIGN
 
+- link to Github repo : https://github.com/Mahalakshmi-24/DSGN270-Assignment-3
+
+- link to Github livepage : https://mahalakshmi-24.github.io/DSGN270-Assignment-3/
+
 ## Design Process
 
 - I was searching through the internet for simple logo design.
